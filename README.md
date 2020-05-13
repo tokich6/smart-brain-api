@@ -1,3 +1,3 @@
 # smart-brain-api
 
-backend code (for the frondend code - please review the smart-brain-frontend repository)
+Front end code available for review at [smart-brain-frontend repository] (https://github.com/tokich6/smart-brain-frontend).
